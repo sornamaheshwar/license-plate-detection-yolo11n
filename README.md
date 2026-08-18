@@ -783,3 +783,11 @@ The dataset metadata identifies the source dataset as licensed under **CC BY 4.0
 The complete dataset is not included in this repository.
 
 The trained model and application code are provided for educational and portfolio demonstration purposes.
+
+# Screenshots of Results
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/27b2a01b-fd2e-4166-bb45-a518a1e09530" />
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/8c1e03b8-d5b4-4444-a708-c4ea9e7648e1" />
+<img width="1600" height="810" alt="WhatsApp Image 2026-08-18 at 1 53 54 PM" src="https://github.com/user-attachments/assets/2fc933a3-4605-49cc-89a2-8a4f445a7a4c" />
+<img width="1600" height="780" alt="WhatsApp Image 2026-08-18 at 1 56 11 PM" src="https://github.com/user-attachments/assets/4d3a0980-987d-45e8-9d74-0de091e588ec" />
+<img width="1600" height="815" alt="WhatsApp Image 2026-08-18 at 1 56 34 PM" src="https://github.com/user-attachments/assets/b68ca8fb-5d3b-40cb-b0e3-e9ce435e7522" />
+<img width="1600" height="812" alt="WhatsApp Image 2026-08-18 at 1 56 55 PM" src="https://github.com/user-attachments/assets/c722d6b4-1c9e-48a7-8629-f989594c3bbd" />
