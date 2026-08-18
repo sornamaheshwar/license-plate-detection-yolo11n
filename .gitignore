@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+
+dataset/
+runs/
+
+.streamlit/secrets.toml
+
+*.log
+.DS_Store
+Thumbs.db
+yolo11n.pt
